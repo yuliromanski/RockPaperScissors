@@ -1,0 +1,15 @@
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\bin\Debug\net6.0\YuliRomanskiGame.exe
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\bin\Debug\net6.0\YuliRomanskiGame.deps.json
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\bin\Debug\net6.0\YuliRomanskiGame.runtimeconfig.json
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\bin\Debug\net6.0\YuliRomanskiGame.dll
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\bin\Debug\net6.0\YuliRomanskiGame.pdb
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.csproj.AssemblyReference.cache
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.AssemblyInfoInputs.cache
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.AssemblyInfo.cs
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.csproj.CoreCompileInputs.cache
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.dll
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\refint\YuliRomanskiGame.dll
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.pdb
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\YuliRomanskiGame.genruntimeconfig.cache
+C:\Users\mrdil\source\repos\YuliRomanskiGame\YuliRomanskiGame\obj\Debug\net6.0\ref\YuliRomanskiGame.dll
